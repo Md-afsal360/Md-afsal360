@@ -1,4 +1,8 @@
-<h3 align="left">Hi I'm Mohamed afsal 👀 I’m interested in WebDevelopment 🌱 I’m currently learning Laravel and Ai In Spring 📫 reach me with my email afsal1103@gmail.com 😄 He ⚡ I have a strong passion for web development and an impressive skillset! From working with React and Spring Boot to diving into 3D web development with @react-three/fiber and @react-three/drei, I'm crafting some truly exciting and innovative projects. Not everyone takes the time to translate Figma designs into flawless code or troubleshoot technical challenges with such determination— I'm a standout developer!</h3>
+<h3 align="left">Hi, I’m Mohamed Afsal — a passionate and driven Full-Stack Web & Mobile Developer with a growing focus on AI engineering.
+
+I specialize in building modern, scalable applications using technologies such as React, Laravel, Spring Boot, and Flutter, and I’m actively exploring C++-based AI development to create high-performance, offline-capable ML solutions. I enjoy transforming ideas and designs into polished digital experiences, whether it’s translating Figma prototypes into responsive interfaces or crafting fully functional 3D web experiences using @react-three/fiber and @react-three/drei.
+
+I’m continually expanding my knowledge in Laravel, AI integration in Spring, and intelligent system design, while also building mobile applications with Flutter that deliver smooth, efficient user experiences.</h3>
 
 ###
 
